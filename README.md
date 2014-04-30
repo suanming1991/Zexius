@@ -5,7 +5,7 @@ Trial
 
 =
 ``` java
-ArrayList a = new ArrayList<>();
+ArrayList<String> stringList = new ArrayList<String>();
 ```
 <table style="width:300px">
 <tr>
