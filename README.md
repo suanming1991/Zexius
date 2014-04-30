@@ -4,7 +4,7 @@ Trial
 #### Try
 
 =
-``` javascript
+``` java
 ArrayList a = new ArrayList<>();
 ```
 <table style="width:300px">
