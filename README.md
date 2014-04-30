@@ -4,4 +4,6 @@ Trial
 #### Try
 
 =
-''' javascript
+``` javascript
+ArrayList a = new ArrayList<>();
+```
